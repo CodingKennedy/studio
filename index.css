@@ -1,39 +1,62 @@
-/*
+
 body{
-	background: #A5C9FF
+	background-image: url("https://oi1287.photobucket.com/albums/a621/spiritninja66/IMG_0367_zpsxq8smcbp.jpg");
+	background-repeat: no-repeat,repeat;
+	/*background: #A5C9FF;*/
 
-}
-
-img{
-	width:30%;
-	float:left;
-	margin: 1.66%;
 }
 
 h1{
 	margin: 1.66%;
-	font-family: 'Raleway', sans-serif;
 	font-size: 29px;
 	font-weight: 800;
 	text-transform: uppercase;
 	border-bottom: 2px solid #011691;
-	width:40%;
+
 	padding-bottom:20px;
 	color:#011691;
 }
-*/
+
+div{
+	
+	background:rgba(225, 239, 239, 0.23);
+		text-align: center;
+		padding-bottom: 1%;
+
+}
+
+.photo{
+	width:150px;
+	height: 200px;
+	/*text-align: center*/
+	/*background:none;*/
+}
+
+a img{
+float:left;
+	width: 50px ;
+    height: 50px;
+    margin: 1.66%;
+}
+
 
 
 img{
-	float:left;
-	width: 50px ;
-    height: 50px;
+	
+	width: 150px ;
+    height: 200px;
     margin: 1%;
-
+    text-align: center;
 }
+
+
 footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 2.5rem;            /* Footer height */
+  height: 2.5rem;   
+  margin: 2%;         
 }
+
+
+/*https://s1287.photobucket.com/user/spiritninja66/media/IMG_0367_zpsxq8smcbp.jpg.html" target="_blank"><img src="https://i1287.photobucket.com/albums/a621/spiritninja66/IMG_0367_zpsxq8smcbp.jpg" border="0" alt=" photo IMG_0367_zpsxq8smcbp.jpg"/></a>*/
