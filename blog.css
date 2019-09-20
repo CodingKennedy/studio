@@ -11,6 +11,9 @@ div{
 	margin: 3%;
 }
 
+p{
+	letter-spacing: 0.2rem;
+}
 #top{
 	margin: 3%;
 	font-size: 50px;
